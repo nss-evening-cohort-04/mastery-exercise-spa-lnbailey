@@ -1,0 +1,1 @@
+document.write("Cause I'm ready for the next challenge");
