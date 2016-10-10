@@ -1,0 +1,40 @@
+{
+  "cars": [
+    {
+      "make": "Jeep",
+      "model": "Cherokee",
+      "year": "1999",
+      "price": "4000",
+      "description": "This is an great little utility vehicle. 25000 miles. Small but holds lots of cargo. Leather seats, power everything."
+    },
+    {
+      "make": "Datson",
+      "model": "280ZX",
+      "year": "1980",
+      "price": "6400",
+      "description": "Come on, what more is there to say? Runs great, 280000 miles. Great stereo."
+    },
+    {
+      "make": "Honda",
+      "model": "Prelude SI 4WS",
+      "year": "1988",
+      "price": "5500",
+      "description": "Can literally make a U-turn at 80MPH on a 2 lane road! 320000 miles. Worth every penny."
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Silverado 3500 4WD Turbo Diesel",
+      "year": "2006",
+      "price": "18000",
+      "description": "Best truck on the market. Kick-ass Bose stereo! 14000 miles."
+    },
+    {
+      "make": "Range Rover",
+      "model": "Evoque HSE",
+      "year": "2016",
+      "price": "86500",
+      "description": "340-hp supercharged V-6—with an eight-speed automatic and four-wheel drive."
+    }
+
+  ]
+}
