@@ -34,7 +34,13 @@
       "year": "2016",
       "price": "86500",
       "description": "340-hp supercharged V-6—with an eight-speed automatic and four-wheel drive."
+    },
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
     }
-
   ]
 }
